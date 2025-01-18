@@ -52,5 +52,5 @@ You can access and run the project directly on Google Colab using this link: [Op
 ## 👤 Author
 
 **Your Name**  
-- GitHub: [Your GitHub Profile](https://github.com/jha-aman09)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman--jha) 
+- GitHub: [Aman Jha](https://github.com/jha-aman09)  
+- LinkedIn: [Aman Jha](https://www.linkedin.com/in/aman--jha) 
