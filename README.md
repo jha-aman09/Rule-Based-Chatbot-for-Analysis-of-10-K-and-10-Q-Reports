@@ -1,10 +1,10 @@
-# Rule-Based Financial Insights Chatbot for Analysis of 10-K and 10-Q Reports
+# 📊 Rule-Based Financial Insights Chatbot for Analysis of 10-K and 10-Q Reports
 
 This repository contains the implementation of a **rule-based financial insights chatbot** that analyzes financial data from 10-K and 10-Q reports. The chatbot provides user-friendly insights such as revenue growth and net income growth for Tesla, Microsoft, and Google over three fiscal years.
 
 ---
 
-## Files in the Repository
+## 📁 Files in the Repository
 
 1. **`Financial_Analysis.ipynb`**  
    The main Python script that:
@@ -20,7 +20,7 @@ This repository contains the implementation of a **rule-based financial insights
 
 ---
 
-## Features
+## ✨ Features
 
 - **Data Analysis:**
   - Calculates year-over-year revenue growth and net income growth for each company.
@@ -32,7 +32,7 @@ This repository contains the implementation of a **rule-based financial insights
 
 ---
 
-## Installation and Usage
+## 🛠️ Installation and Usage
 
 1. Clone the repository:
    ```bash
@@ -48,14 +48,14 @@ This repository contains the implementation of a **rule-based financial insights
 
 ---
 
-## Demo on Google Colab
+## 🚀 Demo on Google Colab
 
 You can access and run the project directly on Google Colab using this link: [Open in Colab](https://colab.research.google.com/drive/19BYNtFqNVfmPxU-xzICHnmEeZRapuoHc?usp=sharing).
 
 ---
 
-## Author
+## 👤 Author
 
 **Your Name**  
 - GitHub: [Your GitHub Profile](https://github.com/jha-aman09)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman--jha)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman--jha) 
