@@ -2,7 +2,6 @@
 
 This repository contains the implementation of a **rule-based financial insights chatbot** that analyzes financial data from 10-K and 10-Q reports. The chatbot provides user-friendly insights such as revenue growth and net income growth for Tesla, Microsoft, and Google over three fiscal years.
 
----
 
 ## 📁 Files in the Repository
 
@@ -18,7 +17,6 @@ This repository contains the implementation of a **rule-based financial insights
 3. **`Chatbot_Documentation.docx`**  
    Detailed documentation explaining the chatbot's functionality, how it works, and its use cases.
 
----
 
 ## ✨ Features
 
@@ -30,7 +28,6 @@ This repository contains the implementation of a **rule-based financial insights
   - Responds to predefined user queries using `if-else` statements.
   - Answers questions about total revenue and net income growth for specific companies and fiscal years.
 
----
 
 ## 🛠️ Installation and Usage
 
@@ -46,13 +43,11 @@ This repository contains the implementation of a **rule-based financial insights
 4. Load the data from `EGDAR.csv`.
 5. Run the chatbot and enter your queries to get insights.
 
----
 
 ## 🚀 Demo on Google Colab
 
 You can access and run the project directly on Google Colab using this link: [Open in Colab](https://colab.research.google.com/drive/19BYNtFqNVfmPxU-xzICHnmEeZRapuoHc?usp=sharing).
 
----
 
 ## 👤 Author
 
